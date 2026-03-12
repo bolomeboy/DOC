@@ -7,7 +7,16 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Placeholder</p>
+  <p>The Dynasty of California (The DOC) is a 12-team dynasty fantasy football league built on competition, strategy, and a lot of personality. Managers are constantly trading players and future draft picks, making bold moves in pursuit of the next championship.</p>
+  <p>The league is highly active, with trades, debates, and plenty of smack talk throughout the season. While the competition is intense, the league is ultimately about having fun, staying engaged, and building rivalries that carry from year to year.</p>
+  <p>Most of the league members share Portuguese roots, which adds its own unique culture and camaraderie to the league.</p>
+  <hr />
+  <h4>Championship History 🏆:</h4>
+  <h6>🏈 2025 - Champion: Elk Grove Gallos (Bolo)</h6>
+  <p>fill in</p>
+  <p>Championship MVP - Trey McBride - 28.60 points</p>
+  <hr />
+  <p>Established 2025</p>
 `;
 
 /*   STEP 3   */
