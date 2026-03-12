@@ -242,7 +242,7 @@
             {:else if viewManager.fantasyStart}
                 <!-- fantasyStart is an optional field -->
                 <span class="seperator">|</span>
-                <span class="infoChild">Playing ff since '{viewManager.fantasyStart.toString().substr(2)}</span>
+                <span class="infoChild">In the league since '{viewManager.fantasyStart.toString().substr(2)}</span>
             {/if}
             {#if viewManager.preferredContact}
                 <!-- preferredContact is an optional field -->
